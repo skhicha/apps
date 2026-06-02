@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532273992906",
+    "project_id": "ecobin-dd162",
+    "storage_bucket": "ecobin-dd162.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532273992906:android:65e347ffd12da14c5ad033",
+        "android_client_info": {
+          "package_name": "com.example.smart_waste_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYusNCfoGcbYVHEgw6wuR2rdiU9J4rgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
