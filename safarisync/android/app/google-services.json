@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026628634662",
+    "project_id": "safarisync-b887b",
+    "storage_bucket": "safarisync-b887b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026628634662:android:7238427b33a4fdfde83ee7",
+        "android_client_info": {
+          "package_name": "com.example.safarisync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEytSdddrjirQ-7sP7G1BTGJXVVTj-1us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
